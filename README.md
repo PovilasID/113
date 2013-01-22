@@ -16,3 +16,5 @@ Ieškomi savanoriai ir oganizacijos kurios padėtų surinkti ir suklasifikuoti i
 ##Organizatoriai
 
 Tai asmeninė iniciatyva. Tai reiškia jos niekas nefinancuoja, nekontroliuoja ar apskritai turi kokios nors įtakos. Projektas sugalvotas pamačius skudžius paieškos rezultatus ir menką reprezentavimą elektroninėje erdvėje.
+
+[![endorse](http://api.coderwall.com/povilassid/endorsecount.png)](http://coderwall.com/povilassid)
